@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-We do research about advanced web technology and combined with latest Artificial Intelligence capability.
+We do research about advanced web technology and combine it with the latest practical AI implementation.
 
-**Here what we currently have:**
+**Here is what we currently have:**
 
 ## Speech Highlight
 
@@ -10,14 +10,11 @@ We do research about advanced web technology and combined with latest Artificial
 
 :speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React text-to-speech with highlighting the words and sentences that are being spoken using audio files, text-to-speech API, and web speech synthesis API.
 
-
-### The Web Version (React and Vanilla js)
-
-The current price is $94 USD
-
 **What you got**
 
 After you pay you will be invited inside my private repo and stay inside for 1 year to receive any updates.
+
+### The Web Version (React and Vanilla js) ($94 USD)
 
 - [The demo website (Next js based)](https://github.com/Web-XR-AI-lab/demo-website-react-speech-highlight)
 
@@ -27,14 +24,9 @@ After you pay you will be invited inside my private repo and stay inside for 1 y
 
 <br/>
 
-### The Mobile App Version (React Native)
+### The Mobile App Version (React Native) ($200)
 
-Current price is $200.
-
-**What you got**
-
-- [The Demo App source code based on React Native CLI](https://github.com/Web-XR-AI-lab/react-native-speech-highlight-cli-version) (Ready) ([Try demo app](#react-native-speech-highlight))
-
+- [The Demo App source code based on React Native CLI](https://github.com/Web-XR-AI-lab/react-native-speech-highlight-cli-version) (Ready) ([Try demo android app](https://github.com/albirrkarim/react-speech-highlight-demo?tab=readme-ov-file#react-native-speech-highlight))
 <br/>
 
 ## React GPT Web Guide
