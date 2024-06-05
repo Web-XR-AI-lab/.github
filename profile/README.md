@@ -1,5 +1,55 @@
 ## Hi there 👋
 
+We do research about advanced web technology and combined with latest Artificial Intelligence capability.
+
+**Here what we currently have:**
+
+## Speech Highlight
+
+[![Text To Speech Javascript](https://github.com/albirrkarim/albirrkarim/assets/29292018/36b5652f-b42b-4c93-9e68-e76001a0e194)](https://github.com/albirrkarim/react-speech-highlight-demo)
+
+:speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React text-to-speech with highlighting the words and sentences that are being spoken using audio files, text-to-speech API, and web speech synthesis API.
+
+
+### The Web Version (React and Vanilla js)
+
+The current price is $94 USD
+
+**What you got**
+
+After you pay you will be invited inside my private repo and stay inside for 1 year to receive any updates.
+
+- [The demo website (Next js based)](https://github.com/Web-XR-AI-lab/demo-website-react-speech-highlight)
+
+- [The package repo (React Speech Highlight)](https://github.com/Web-XR-AI-lab/react-speech-highlight)
+
+- [The package repo (Vanilla Speech Highlight)](https://github.com/Web-XR-AI-lab/vanilla-speech-highlight)
+
+<br/>
+
+### The Mobile App Version (React Native)
+
+Current price is $200.
+
+**What you got**
+
+- [The Demo App source code based on React Native CLI](https://github.com/Web-XR-AI-lab/react-native-speech-highlight-cli-version) (Ready) ([Try demo app](#react-native-speech-highlight))
+
+<br/>
+
+## React GPT Web Guide
+
+[![React GPT Web Guide](https://github.com/albirrkarim/albirrkarim/assets/29292018/59b56591-8fac-4dcb-90f7-60077435ea90)](https://github.com/albirrkarim/react-gpt-web-guide-docs)
+
+:accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta), Interactable AI 3D Avatar that has control over your frontend website
+
+[React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) ($100) + React Speech Highlight(~~$94~~)($40) = $140
+
+**What you got**
+
+- [The demo website (Next js based)](https://github.com/Web-XR-AI-lab/demo-website-gpt-web-guide)
+- All the private repo web version of [React Speech Highlight](#the-web-version-react-and-vanilla-js)
+
 <!--
 
 **Here are some ideas to get you started:**
