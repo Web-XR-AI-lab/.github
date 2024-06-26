@@ -22,7 +22,7 @@ After you pay you will be invited inside my private repo and stay inside for 1 y
 
 - [The package repo (Vanilla Speech Highlight)](https://github.com/Web-XR-AI-lab/vanilla-speech-highlight)
 
-### The Mobile App Version (React Native) ($150)
+### The Mobile App Version (React Native) ($150 USD)
 
 - [The Demo App source code based on React Native CLI](https://github.com/Web-XR-AI-lab/react-native-speech-highlight-cli-version) (Ready) ([Try demo android app](https://github.com/albirrkarim/react-speech-highlight-demo?tab=readme-ov-file#react-native-speech-highlight))
 <br/>
@@ -33,7 +33,7 @@ After you pay you will be invited inside my private repo and stay inside for 1 y
 
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta), Interactable AI 3D Avatar that has control over your frontend website
 
-[React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) ($100) + React Speech Highlight(~~$94~~)($40) = $140
+[React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) ($100) + React Speech Highlight(~~$94~~)($40) = $140 USD
 
 **What you got**
 
