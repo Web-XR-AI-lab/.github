@@ -26,7 +26,7 @@ After you pay you will be invited inside my private repo and stay inside for 1 y
 
 - [The Demo App source code based on React Native CLI](https://github.com/Web-XR-AI-lab/react-native-speech-highlight-cli-version) (Ready) ([Try demo android app](https://github.com/albirrkarim/react-speech-highlight-demo?tab=readme-ov-file#react-native-speech-highlight))
 
-### Python Server for Doing YouTube Transcript Highlight ($20 USD)
+### Python Server for advanced feature ($20 USD)
 
 - [Python server for relation highlight, YouTube transcript](https://github.com/Web-XR-AI-lab/rshl_python_helper)
 
