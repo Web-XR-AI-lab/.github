@@ -28,9 +28,8 @@ After you pay you will be invited inside my private repo and stay inside for 1 y
 
 ### Python Server for advanced feature ($20 USD)
 
-- [Python server for relation highlight, YouTube transcript](https://github.com/Web-XR-AI-lab/rshl_python_helper)
-
-- [Python server for speech-to-text using open ai](https://github.com/Web-XR-AI-lab/rshl_python_video)
+- [Python server for youtube relation transcript highlight ($20)](https://github.com/Web-XR-AI-lab/rshl_python_helper)
+- [Python server for video auto generate transcript ($20)](https://github.com/Web-XR-AI-lab/rshl_python_helper)
 
 <br/>
 
