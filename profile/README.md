@@ -24,10 +24,15 @@ After you pay you will be invited inside my private repo and stay inside for 1 y
 
 - [The Demo App source code based on React Native CLI](https://github.com/Web-XR-AI-lab/react-native-speech-highlight-cli-version) (Ready) ([Try demo android app](https://github.com/albirrkarim/react-speech-highlight-demo?tab=readme-ov-file#react-native-speech-highlight))
 
-### Python Server for advanced feature ($20 USD)
+### Backend Server for advanced feature ($20 USD)
 
-- [Python server for youtube relation transcript highlight ($20)](https://github.com/Web-XR-AI-lab/rshl_python_helper)
-- [Python server for video auto generate transcript ($20)](https://github.com/Web-XR-AI-lab/rshl_python_helper)
+- [Python server ($20)](https://github.com/Web-XR-AI-lab/rshl_python_helper)
+  
+Contains: YouTube relation transcript highlight, Video auto-generate transcript, Streaming TTS
+
+- [Node js server ($20)](https://github.com/Web-XR-AI-lab/rshl_node)
+
+Contains: Backenify LLM engines
 
 <br/>
 
