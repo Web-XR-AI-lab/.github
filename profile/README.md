@@ -14,7 +14,7 @@ We do research about advanced web technology and combine it with the latest prac
 
 After you pay you will be invited inside my private repo and stay inside for 1 year to receive any updates.
 
-### The Web Version (React and Vanilla js) ($200 USD)
+### The Web Version (React and Vanilla js) ($120 USD)
 
 - [The demo website (Next js based)](https://github.com/Web-XR-AI-lab/demo-website-react-speech-highlight)
 - [The package repo (React Speech Highlight)](https://github.com/Web-XR-AI-lab/react-speech-highlight)
