@@ -10,6 +10,12 @@ We do research about advanced web technology and combine it with the latest prac
 
 :speaking_head: [React Speech Highlight](https://github.com/albirrkarim/react-speech-highlight-demo), React text-to-speech with highlighting the words and sentences that are being spoken using audio files, text-to-speech API, and web speech synthesis API.
 
+<details>
+
+<summary>Show more</summary>
+
+<br/>
+
 **What you got**
 
 After you pay you will be invited inside my private repo and stay inside for 1 year to receive any updates.
@@ -34,13 +40,19 @@ Contains: YouTube relation transcript highlight, Video auto-generate transcript,
 
 Contains: Backenify LLM engines
 
+</details>
+
 <br/>
 
-## React GPT Web Guide
+## Agentic Series
 
-[![React GPT Web Guide](https://raw.githubusercontent.com/albirrkarim/react-gpt-web-guide-docs/main/img/banner.png)](https://github.com/albirrkarim/react-gpt-web-guide-docs)
+### Agent Support
 
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta), Interactable AI 3D Avatar that has control over your frontend website
+
+<details>
+
+<summary>Show more</summary>
 
 [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) ($100) + React Speech Highlight(~~$94~~)($40) = $140 USD
 
@@ -49,13 +61,22 @@ Contains: Backenify LLM engines
 - [The demo website (Next js based)](https://github.com/Web-XR-AI-lab/demo-website-gpt-web-guide)
 - All the private repo web version of [React Speech Highlight](#the-web-version-react-and-vanilla-js)
 
-<!--
+</details>
 
-**Here are some ideas to get you started:**
+### Agent Demand
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+AI model that find the product demand based on scraping internet.
+
+### Agent Quality
+
+Its like washing machine that wash bug from your app. Exploratory AI, no hardcoded unit test.
+
+### Agent Marketing
+
+From given email list, email template, they do all the email marketing funnel etc..
+
+### Agent Business
+
+Some agent that can scrape google and track your product is still the top of mind and wining product. 
+
+
