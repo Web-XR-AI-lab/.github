@@ -48,6 +48,20 @@ Contains: Backenify LLM engines
 
 With help of LLM API like openai + My Programatic Approach. I made ai worker to help me do the my job !
 
+Why not using SaaS agentic?
+- You can't flexible controlling the data, you dont have access to their code.
+- Expensive
+  
+Why using my solution?
+- You can put your custom logic (code) inside it.
+- You can choose cheap API.
+- You can do deep analysis, your algorithm
+- You dont have to pay cloud computing, because it can be done on your local machine
+
+Why not use to my agent?
+- You dont have coding skill
+- You have a lot of money
+
 ### Agent Support
 
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta), Interactable AI 3D Avatar that has control over your frontend website
