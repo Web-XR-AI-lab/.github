@@ -48,7 +48,7 @@ Contains: Backenify LLM engines
 
 With help of LLM API like openai + My Programatic Approach. I made ai worker to help me do the my job !
 
-I rent out my AI Worker, do you want?
+**I rent out my AI Worker, do you want?**
 
 Why not using SaaS agentic?
 - You can't flexible controlling the data, you dont have access to their code.
