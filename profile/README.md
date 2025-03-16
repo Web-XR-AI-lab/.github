@@ -46,6 +46,8 @@ Contains: Backenify LLM engines
 
 ## Agentic Series
 
+With help of LLM API like openai + My Programatic Approach. I made ai worker to help me do the my job !
+
 ### Agent Support
 
 :accessibility: [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) (Beta), Interactable AI 3D Avatar that has control over your frontend website
