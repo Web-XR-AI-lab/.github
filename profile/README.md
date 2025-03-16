@@ -83,7 +83,7 @@ Why not use to my agent?
 
 ### Agent Demand
 
-AI model that find the product demand based on scraping internet.
+[Agent Demand](https://github.com/Web-XR-AI-lab/agent-demand), AI model that find the product demand based on scraping internet.
 
 ### Agent Quality
 
