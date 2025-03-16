@@ -44,7 +44,7 @@ Contains: Backenify LLM engines
 
 <br/>
 
-## Agentic Series
+## Agentic Series (Coming soon)
 
 With help of LLM API like openai + My Programatic Approach. I made ai worker to help me do the my job !
 
