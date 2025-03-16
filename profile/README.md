@@ -70,6 +70,8 @@ Why not use to my agent?
 
 <summary>Show more</summary>
 
+<br/>
+
 [React GPT Web Guide](https://github.com/albirrkarim/react-gpt-web-guide-docs) ($100) + React Speech Highlight(~~$94~~)($40) = $140 USD
 
 **What you got**
