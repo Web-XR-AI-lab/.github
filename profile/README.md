@@ -89,14 +89,12 @@ Why not use to my agent?
 
 ### Agent Quality
 
-Its like washing machine that wash bug from your app. Exploratory AI, no hardcoded unit test.
+[Agent Quality](https://github.com/Web-XR-AI-lab/agent-quality), Its like washing machine that wash bug from your app. Exploratory AI, no hardcoded unit test.
 
 ### Agent Marketing
 
-From given email list, email template, they do all the email marketing funnel etc..
+[Agent Marketing](https://github.com/Web-XR-AI-lab/agent-marketing), From given email list, email template, they do all the email marketing funnel etc..
 
 ### Agent Business
 
-Some agent that can scrape google and track your product is still the top of mind and wining product. 
-
-
+[Agent Business](https://github.com/Web-XR-AI-lab/agent-business), Some agent that can scrape google and track your product is still the top of mind and wining product.
