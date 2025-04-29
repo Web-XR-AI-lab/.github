@@ -20,13 +20,13 @@ We do research about advanced web technology and combine it with the latest prac
 
 After you pay you will be invited inside my private repo and stay inside for 1 year to receive any updates.
 
-### The Web Version (React and Vanilla js) ($120 USD)
+### The Web Version (React and Vanilla js)
 
 - [The demo website (Next js based)](https://github.com/Web-XR-AI-lab/demo-website-react-speech-highlight)
 - [The package repo (React Speech Highlight)](https://github.com/Web-XR-AI-lab/react-speech-highlight)
 - [The package repo (Vanilla Speech Highlight)](https://github.com/Web-XR-AI-lab/vanilla-speech-highlight)
 
-### The Mobile App Version (React Native) ($150 USD)
+### The Mobile App Version (React Native)
 
 - [The Demo App source code based on React Native CLI](https://github.com/Web-XR-AI-lab/react-native-speech-highlight-cli-version) (Ready) ([Try demo android app](https://github.com/albirrkarim/react-speech-highlight-demo?tab=readme-ov-file#react-native-speech-highlight))
 
