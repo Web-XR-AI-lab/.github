@@ -43,7 +43,7 @@ Contains: Backenify LLM engines
 </details>
 
 <br/>
-
+<!--
 ## Agentic Series (Coming soon)
 
 With help of LLM API like openai + My Programatic Approach. I made ai worker to help me do the my job !
@@ -98,3 +98,6 @@ Why not use to my agent?
 ### Agent Business
 
 [Agent Business](https://github.com/Web-XR-AI-lab/agent-business), Some agent that can scrape google and track your product is still the top of mind and wining product.
+
+
+-->
